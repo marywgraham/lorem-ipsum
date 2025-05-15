@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "marywgraham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125693498?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "marywgraham",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-15T17:32:49.840Z",
-    "updated_at": "2025-05-15T17:32:49.840Z"
-  }
+    "updated_at": "2025-05-15T17:32:49.840Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9e921a7a-feb0-4b54-af6b-5de5eaa28634": {
+      "content": [],
+      "created_at": "2025-05-15T17:32:49.864Z",
+      "created_by": "marywgraham",
+      "title": "Test Case for Feedback",
+      "updated_at": "2025-05-15T17:32:49.864Z",
+      "updated_by": "marywgraham",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9e921a7a-feb0-4b54-af6b-5de5eaa28634"
+  ]
 }
